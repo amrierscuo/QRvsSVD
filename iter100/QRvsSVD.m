@@ -3,7 +3,7 @@
 % Genera random data
 m = 20;
 n = 10;
-times = 20;  % Esegui solo 20 iterazioni
+times = 100;  % Esegui solo 100 iterazioni
 
 % Inizializza le variabili per salvare i risultati:
 % quadrate, sovradimensionate e sottodimensionate
